@@ -84,3 +84,13 @@ h1{
 tbody {
     font-size: x-small;
 }
+
+footer {
+    height: 30px;
+    background-color:#313a6b ;
+    margin-top: 50px;
+    color: white;
+    text-align: center;
+    font-size: xx-small;
+    padding-top: 15px;
+}
