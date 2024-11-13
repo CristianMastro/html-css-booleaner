@@ -10,3 +10,38 @@ header {
     padding-left: 100px;
     padding-top: 30px;
 }
+
+.container-main{
+    height: 100px;
+    margin: 0 100px;
+}
+
+h1{
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+
+#writer {
+    margin: 0 0 10px 0;
+    font-size: small;
+    color: gray;
+}
+
+#booleaner-color {
+    color: #9cd6f4;
+}
+
+#date-title {
+    font-size: smaller;
+}
+
+.tim-foto {
+    width: 300px;
+    height: 200px;
+}
+
+#foto-editor {
+    font-size: xx-small;
+    margin-top: 0;
+}
