@@ -61,3 +61,26 @@ h1{
 .list-lorem {
     font-size: x-small;
 }
+
+.lorem-table-slot {
+    margin: 0 100px;
+}
+
+.table-title {
+    background-color: #7fa6fb;
+    color: white;
+    font-size: x-small;
+    text-align: left;
+}
+
+#size-table {
+    width: 60%;
+}
+
+.table-center {
+    background-color: #dfe5f2;
+}
+
+tbody {
+    font-size: x-small;
+}
