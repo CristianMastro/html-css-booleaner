@@ -12,7 +12,6 @@ header {
 }
 
 .container-main{
-    height: 100px;
     margin: 0 100px;
 }
 
@@ -44,4 +43,21 @@ h1{
 #foto-editor {
     font-size: xx-small;
     margin-top: 0;
+}
+
+#lorem-section {
+    margin: 0 100px;
+}
+
+.lorem-color {
+    background-color: yellow;
+}
+
+#text-lorem {
+    font-size: x-small;
+    margin-bottom: 10px;
+}
+
+.list-lorem {
+    font-size: x-small;
 }
